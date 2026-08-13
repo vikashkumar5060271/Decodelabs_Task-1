@@ -62,4 +62,8 @@ The goal of this project is to transform a raw dataset into a clean, consistent,
 * Data Type Conversion
 * Dataset Validation
 
+<img width="998" height="559" alt="Screenshot 2026-08-02 190609" src="https://github.com/user-attachments/assets/9ee11635-b1a8-4235-99e2-e2e956684930" />
+
+<img width="803" height="1011" alt="Screenshot 2026-07-31 185219" src="https://github.com/user-attachments/assets/69e02c31-0a35-4047-9cad-7536ad5dca8e" />
+
 <img width="839" height="1021" alt="Screenshot 2026-07-31 185238" src="https://github.com/user-attachments/assets/7784a84e-ade1-47c5-a424-eb3817cd4427" />
