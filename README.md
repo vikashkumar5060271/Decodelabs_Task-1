@@ -61,3 +61,5 @@ The goal of this project is to transform a raw dataset into a clean, consistent,
 * Removing Duplicates
 * Data Type Conversion
 * Dataset Validation
+
+<img width="839" height="1021" alt="Screenshot 2026-07-31 185238" src="https://github.com/user-attachments/assets/7784a84e-ade1-47c5-a424-eb3817cd4427" />
